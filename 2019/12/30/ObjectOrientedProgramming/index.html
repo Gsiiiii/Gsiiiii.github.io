@@ -39,7 +39,7 @@
     <div id="single">
     <div id="top" style="display: block;">
     <div class="bar" style="width: 0;"></div>
-    <a class="icon-home image-icon" href="javascript:;" target="_blank" rel="noopener" data-url="gusu.xyz"></a>
+    <a class="icon-home image-icon" href="javascript:;" target="_blank" rel="noopener" data-url="http://gusu.xyz"></a>
     <div title="播放/暂停" class="icon-play"></div>
     <h3 class="subtitle">面向对象</h3>
     <div class="social">
@@ -113,7 +113,6 @@
 <li><b>重载(overload) 和重写(override)</b><ul>
 <li>重载<ul>
 <li>发生在父子类中,方法名相同,参数列表(顺序,个数,类型)不同,方法体不同就是重载</li>
-<li></li>
 </ul>
 </li>
 <li>重写<ul>
@@ -171,7 +170,38 @@
 </ul>
 <hr>
 <ul>
-<li>接口 (interface )</li>
+<li><p>接口 (interface)</p>
+<ul>
+<li>是一种数据类型(引用类型类型)</li>
+<li>由 interface 定义</li>
+<li>只能包含常量和抽象方法</li>
+<li>接口是不能实例化</li>
+<li>接口是需要被 实现/继承 ,实现/派生类 : 必须重写接口中的所有抽象方法</li>
+<li>一个类可以实现多个接口,用逗号分隔 若有继承又实现时,必须像继承后是实现</li>
+<li>接口可以继承接口</li>
+</ul>
+</li>
+<li><p>抽象 (abstract)</p>
+<ul>
+<li>由 abstract 修饰</li>
+<li>包含抽象方法的类型必须时抽象类,不包含抽象方的类也可以声明抽象类–(看你心情)</li>
+<li>抽象类不能实例化</li>
+<li>抽象类是需要被继承,派生类<ul>
+<li>重写其所有的抽象方法</li>
+<li>也声明为抽象类–(一般是不会用的)</li>
+</ul>
+</li>
+<li>抽象类的意义:<ul>
+<li>封装派生类的共有的属性和行为–(代码复用)</li>
+<li>为所有派生类提供统一的类型  –(向上造型)</li>
+<li>可以包含抽象方法,为所有派生类提供统一的入口 <ul>
+<li>派生类的具体实现不同,但入口是一致的</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 
             <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
@@ -182,11 +212,19 @@
                 <ul id="audio-list" style="display:none">
                     
                         
-                            <li title='0' data-url='https://link.hhtjim.com/163/461347998.mp3'></li>
+                            <li title='0' data-url='https://link.hhtjim.com/qq/004K8dGd4GXwRZ.mp3'></li>
                         
                     
                         
-                            <li title='1' data-url='http://link.hhtjim.com/163/461347998.mp3'></li>
+                            <li title='1' data-url='https://link.hhtjim.com/qq/000akynZ2Rbro5.mp3'></li>
+                        
+                    
+                        
+                            <li title='2' data-url='https://link.hhtjim.com/163/461347998.mp3'></li>
+                        
+                    
+                        
+                            <li title='3' data-url='https://link.hhtjim.com/qq/003dGK0128bhbN.mp3'></li>
                         
                     
                 </ul>
