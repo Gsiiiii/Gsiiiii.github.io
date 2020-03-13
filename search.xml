@@ -15,12 +15,16 @@
           
           <category> 教程 </category>
           
+          <category> categories </category>
+          
       </categories>
       
       
         <tags>
             
             <tag> blog </tag>
+            
+            <tag> tags </tag>
             
         </tags>
       
@@ -79,19 +83,6 @@
     
     
     <entry>
-      <title>Hello Everybody!</title>
-      <link href="/2020/03/01/Helloworld/"/>
-      <url>/2020/03/01/Helloworld/</url>
-      
-        <content type="html"><![CDATA[<h1>大家好!这里姑苏的个人博客 ( •̀ ω •́ )✧ </h1><font size=5>很高兴~你能进入我的个人博客<p>我是一个 (Java) 初学者<br>我将这里会发布一些我平时敲代码的想法,笔记 (遇到不对的地方希望各位 <b>大牛</b> 给予指正)<br>一些常用的软件 And 一些软件或者网站/网页的教程 等等….<br>我的兴趣和爱好 (hobbies and interests)<br>平时喜欢捣鼓电脑,这也是我喜欢电脑的原因吧!<br>玩游戏,平时主要玩Switch &amp; Ps4 还有<a href="https://lol.qq.com" target="_blank" rel="noopener">英雄联盟</a>,OW 之类的吧<br>最主要的–&gt;–&gt;–&gt; <b>吃</b>___(～o￣3￣)～<br>但是不能接受辣的东西!!! (￣y▽￣)╭ Ohohoho…..</p><p>我的一些联系方式 Hi~ o(<em>￣▽￣</em>)ブ<br>QQ: <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=36517658&site=qq&menu=yes">36517658</a><br>WeChat: zhang36517658<br>Bilibili: <a href="驚鴻丶一線">驚鴻丶一線</a><br>Twitter: <a href="https://twitter.com/Thousand_lslad" target="_blank" rel="noopener">Thousand_lslad</a><br>Github: <a href="https://github.com/Gsiiiii" target="_blank" rel="noopener">Gsiiiii</a> (姑苏)</font><br><img src="/img/Text_Bg_img/Link_Offcial.png" alt="塞尔达"></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>面向对象</title>
       <link href="/2020/03/01/ObjectOrientedProgramming/"/>
       <url>/2020/03/01/ObjectOrientedProgramming/</url>
@@ -111,6 +102,19 @@
             <tag> Java </tag>
             
         </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello Everybody!</title>
+      <link href="/2020/03/01/Helloworld/"/>
+      <url>/2020/03/01/Helloworld/</url>
+      
+        <content type="html"><![CDATA[<h1>大家好!这里姑苏的个人博客 ( •̀ ω •́ )✧ </h1><b>很高兴~你能进入我的个人博客<p>我是一个 (Java) 初学者<br>我将这里会发布一些我平时敲代码的想法,笔记 (遇到不对的地方希望各位 <b>大牛</b> 给予指正)<br>一些常用的软件 And 一些软件或者网站/网页的教程 等等….<br>我的兴趣和爱好 (hobbies and interests)<br>平时喜欢捣鼓电脑,这也是我喜欢电脑的原因吧!<br>玩游戏,平时主要玩Switch &amp; Ps4 还有<a href="https://lol.qq.com" target="_blank" rel="noopener">英雄联盟</a>,OW 之类的吧<br>最主要的–&gt;–&gt;–&gt; <b>吃</b>___(～o￣3￣)～<br>但是不能接受辣的东西!!! (￣y▽￣)╭ Ohohoho…..</p><p>我的一些联系方式 Hi~ o(<em>￣▽￣</em>)ブ<br>QQ: <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=36517658&site=qq&menu=yes">36517658</a><br>WeChat: zhang36517658<br>Bilibili: <a href="驚鴻丶一線">驚鴻丶一線</a><br>Twitter: <a href="https://twitter.com/Thousand_lslad" target="_blank" rel="noopener">Thousand_lslad</a><br>Github: <a href="https://github.com/Gsiiiii" target="_blank" rel="noopener">Gsiiiii</a> (姑苏)</b><br><img src="/img/Text_Bg_img/Link_Offcial.png" alt="塞尔达"></p>]]></content>
+      
+      
       
     </entry>
     
